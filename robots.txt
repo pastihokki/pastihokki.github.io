@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pastihokki.github.io/sitemap.xml
